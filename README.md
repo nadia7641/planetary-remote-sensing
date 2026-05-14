@@ -17,7 +17,7 @@ This project focuses on **[e.g., Geochemical mapping of lead in urban soils]**. 
 *   Identification of three high-risk zones for soil contamination.
 *   Correlation found between [Variable A] and [Variable B].
 
-*(Insert a cool map image here!)*
+
 ![Moreaux Crater Map](moreaux_crater_morphological_map.png)
 
 ---
