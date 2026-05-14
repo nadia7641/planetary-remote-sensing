@@ -23,3 +23,23 @@ This repository contains the geomorphological analysis of **Moreaux Crater** (ce
 
 ---
 **N.A. Poddighe | GMAP Winter School 2026**
+
+## 🌋 Volcanic Analysis: Arsia Mons Lava Tubes
+Statistical and morphological analysis of pit craters and lava tube skylights on the flanks of Arsia Mons, Mars.
+
+![Mars Lava Tubes Analysis](Mars%20lava%20tubes.png)
+
+*   **Objective:** Identification and classification of volcanic collapse features (Circular, Elongated, and Atypical pits).
+*   **Key Finding:** Statistical dominance of elongated pits, suggesting structural control over tube formation.
+*   **Data/Tools:** CTX imagery and QGIS for morphological characterization and histogram generation.
+
+---
+
+## 🌙 Lunar Exploration: Mare Ingenii Landing Site
+Landing site selection and traverse planning for the Mare Ingenii region on the Moon.
+
+![Moon Landing Site Analysis](Ingenii_crater_landing.png)
+
+*   **Objective:** Identifying a safe landing area and scientifically relevant traverse path based on topographic constraints.
+*   **DTM Analysis:** Slope classification (Green: < 10°, Yellow: 10-15°, Red: > 15°) to ensure rover trafficability.
+*   **Geospatial Analysis:** Elevation profile generation and point-of-interest (POI) mapping using Lunar Reconnaissance Orbiter (LRO) data.
