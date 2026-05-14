@@ -18,7 +18,7 @@ This project focuses on **[e.g., Geochemical mapping of lead in urban soils]**. 
 *   Correlation found between [Variable A] and [Variable B].
 
 *(Insert a cool map image here!)*
-![Final Map](maps/final_analysis_map.png)
+![Moreaux Crater Map](moreaux_crater_morphological_map.png)
 
 ---
 *Created by Meb - Geology Student*
