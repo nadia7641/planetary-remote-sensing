@@ -1,24 +1,25 @@
-# Analysis of [Project Subject] using Remote Sensing & GIS
+# Geomorphological Mapping of Moreaux Crater, Mars
+**Project completed during the GMAP Winter School 2026**
 
-## 📌 Project Overview
-This project focuses on **[e.g., Geochemical mapping of lead in urban soils]**. The goal was to identify anomalies and potential contamination sources using [mention your tool, e.g., QGIS and Python].
+## 📌 Technical Summary
+This repository contains the geomorphological analysis of **Moreaux Crater** (centered at 41.6°N, 44.4°E). The mapping was performed using a multi-sensor approach to identify glacial-like forms (GLF) and volatile-related features in the Protonilus Mensae region.
 
-## 🛰️ Data Sources
-*   **Satellite Imagery:** Sentinel-2 (Level-2A) via Copernicus.
-*   **Geochemical Data:** [e.g., In-situ soil samples or USGS database].
-*   **Topography:** SRTM Digital Elevation Model (30m resolution).
+## 🛰️ Dataset & Sensors
+* **CTX (Context Camera):** Primary base map for morphological unit boundary definition (~6 m/pixel).
+* **HiRISE:** Used for detailed analysis of crevasses, sublimation pitting, and pingo-like forms (~25-50 cm/pixel).
+* **THEMIS (Thermal Emission Imaging System):** Day/Night IR used for thermophysical property assessment of dune fields.
+* **HRSC / MOLA:** Digital Elevation Models (DEM) for topographic cross-sections and crater depth analysis.
 
-## 🧪 Methodology
-1.  **Preprocessing:** Atmospheric correction and cloud masking.
-2.  **Analysis:** Calculation of [e.g., NDVI or Geochemical Indices].
-3.  **Interpolation:** Using Kriging/IDW to map spatial distribution of contaminants.
+## 🛠️ Software Workflow
+* **QGIS:** Main GIS environment for vectorization, attribute table management, and final cartographic layout.
+* **Planetary Geocoding:** All data processed using Mars 2000 / Mars Sphere coordinates.
 
-## 📊 Key Results
-*   Identification of three high-risk zones for soil contamination.
-*   Correlation found between [Variable A] and [Variable B].
-
-
+## 🗺️ Final Outputs
+### Geomorphological Map
 ![Moreaux Crater Map](moreaux_crater_morphological_map.png)
 
+### Extended Context Analysis
+![Moreaux Crater Wider View](moreaux_crater_morphological_map_wider.png)
+
 ---
-*Created by Meb - Geology Student*
+**N.A. Poddighe | GMAP Winter School 2026**
